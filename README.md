@@ -22,6 +22,21 @@ https://colab.research.google.com/drive/1Qb4_MSa3iocx9ktCTXT-aLDosvK8lvtM#scroll
 
 ![image](https://user-images.githubusercontent.com/71905847/160262735-0ceb5c78-a237-40ce-924a-905704cc52da.png)
 
+### __"Список 10-ти гистоновых меток и соответсвующих файлов, для которых был сделан анализ"__
+| Гистоновая метка: | bam-файл | 
+| :---: | :---: |
+| H2AFZ | H2azAlnRep2.bam |
+| H3K27ac | H3k27acStdAlnRep2.bam |
+| H3K27me3 | H3k27me3StdAlnRep2.bam |
+| H3K36me3 | H3k36me3StdAlnRep2.bam |
+| H3K4me1 | H3k4me1StdAlnRep2.bam |
+| H3K4me2 | H3k4me2StdAlnRep2.bam |
+| H3K4me3 | H3k4me3StdAlnRep2.bam |
+| H3K79me2 | H3k79me2AlnRep2.bam |
+| H3K9ac | HuvecH3k9acStdAlnRep2.bam |
+| H3K9me1 | H3k9me1StdAlnRep2.bam |
+
+
 ### __"Эпигенетические типы"__
 
 | State: | Эпигенетический тип: | Встречаемость в гистоновых метках: | Краткая характеристика (ассоциировано с): | Полученное изображение (пример выделенного участка): |
