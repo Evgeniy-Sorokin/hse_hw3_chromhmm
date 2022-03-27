@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1Qb4_MSa3iocx9ktCTXT-aLDosvK8lvtM#scroll
 
 ### __"Эпигенетические типы"__
 
-| State: | Эпигенетический тип: | Встречаемость в гистоновых метках: | Краткая характеристика (ассоциировано с): | Полученное изображение: |
+| State: | Эпигенетический тип: | Встречаемость в гистоновых метках: | Краткая характеристика (ассоциировано с): | Полученное изображение (пример выделенного участка): |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Insulator | H3K27me3 | RefSeqTes, laminB1lads | ![image](https://user-images.githubusercontent.com/71905847/160287879-7e33edf6-dfba-47d2-89ab-40072f37e0a8.png) |
 | 2 | Insulator | Почти не встречается | laminB1lads | ![image](https://user-images.githubusercontent.com/71905847/160288633-1c714918-ccc0-4212-942e-60ddf5c0f6fa.png) |
@@ -36,3 +36,8 @@ https://colab.research.google.com/drive/1Qb4_MSa3iocx9ktCTXT-aLDosvK8lvtM#scroll
 | 8 | Strong enhancer | Очень слабо в H2AFZ | laminB1lads | ![image](https://user-images.githubusercontent.com/71905847/160290189-b90a5764-b97a-43ee-8145-e77125a3ea1d.png) |
 | 9 | Weak/poised enhancer | H3K4me2, H2AFZ, H3K4me3, H3K4me1, H3K27me3 | CpGIsland, RefSeqExon, RefSeqTes, RefSeqTSS, RefSeqTSS2kb, laminB1lads | ![image](https://user-images.githubusercontent.com/71905847/160290331-2fa38ac9-69e2-440c-a766-7e3cb73b86c7.png) |
 | 10 | Inactive/poised Promoter | Практически во всех, кроме H3K27me3, H3K9me1 и H3K36me3 | Все, кроме laminB1lads (очень слабо) | ![image](https://user-images.githubusercontent.com/71905847/160290544-ac26b257-0cf7-484a-bdff-a943775d670f.png) |
+
+Заметим однак, что при увеличении "разрешения" мы можем увидеть больше участков с выделенными эпигенетическими типами.
+
+![image](https://user-images.githubusercontent.com/71905847/160290975-ff356516-9cc7-4195-91b0-0917708fe832.png)
+
